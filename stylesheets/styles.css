@@ -27,7 +27,7 @@
 }
 
 @font-face {
-  font-family: ''Caslon', 'Garamond', serif';
+  font-family: 'Caslon', 'Garamond', serif';
   font-weight: 400;
   font-style: italic;
   src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot');
@@ -41,7 +41,7 @@
 }
 
 @font-face {
-  font-family: ''Caslon', 'Garamond', serif';
+  font-family: Caslon', 'Garamond', serif';
   font-weight: 700;
   font-style: italic;
   src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot');
