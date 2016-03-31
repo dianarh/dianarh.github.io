@@ -64,6 +64,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
+  margin:0 0 10px;
 }
 
 h3{
@@ -75,7 +76,7 @@ p{
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 5px;
+  margin:0 0 20px;
 }
 
 
