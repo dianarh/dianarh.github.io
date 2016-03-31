@@ -123,6 +123,12 @@ p, ul, ol, table, pre, dl {
   margin:0 0 5px;
 }
 
+ul{
+text-align:center;
+width:100%;
+	
+	
+}
 
 a {
   color:#ffafdc;
