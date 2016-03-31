@@ -161,6 +161,7 @@ header {
   width: 100%;
   position:fixed;
   text-align:center;
+  margin:0,0,50px,0;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -253,8 +254,6 @@ footer {
     width:auto;
   }
 
-  header {
-  }
 
   section {
     border:1px solid #e5e5e5;
@@ -269,7 +268,6 @@ footer {
 
   header ul {
     position:absolute;
-    right:50px;
     top:52px;
   }
 }
