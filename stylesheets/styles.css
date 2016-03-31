@@ -218,8 +218,9 @@ section {
 
 div.img {
     margin: 5px;
-    width: 200px;
+    width: 300px;
     float: left;
+    text-align:center;
 }	
 
 div.img:hover {
