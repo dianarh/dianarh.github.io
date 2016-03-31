@@ -88,23 +88,23 @@ p, ul, ol, table, pre, dl {
 
 
 a {
-  color:#39c;
+  color:#ffafdc;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#000000;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#ffafdc;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#000000;
 }
 
 .wrapper {
