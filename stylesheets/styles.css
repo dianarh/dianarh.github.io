@@ -218,13 +218,11 @@ section {
 
 div.img {
     margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
     width: 180px;
 }	
 
 div.img:hover {
-    border: 1px solid #777;
+    background-color:red;
 }
 
 div.img img {
