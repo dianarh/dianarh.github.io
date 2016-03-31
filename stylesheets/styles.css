@@ -233,8 +233,9 @@ div.img img {
 }
 
 div.img img:hover {
-    background-color:red;
-
+    width: 100%;
+    height: auto;
+    background-color:blue;
 }
 
 small {
