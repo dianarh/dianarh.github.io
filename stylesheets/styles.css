@@ -175,8 +175,12 @@ section {
 fluid1{
   background-color:#ff0000;
   width:100%;
+  display:block;
+  float:left;
+  min-height:30px;
+  box-sizing:border-box;
   
-  
+
 }
 
 
