@@ -57,10 +57,9 @@
 body {
   background-color: #FFFFFF;
   padding:50px;
-  font: 14px/1.5 'Caslon', 'Garamond', serif;
+  font: 16px/1.5 'Caslon', 'Garamond', serif;
   color:#727272;
   font-weight:400;
-  text-align:center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -162,7 +161,6 @@ strong {
 section {
   padding-top:50px;
   padding-bottom:50px;
-  font-size:30px;
 }
 
 small {
