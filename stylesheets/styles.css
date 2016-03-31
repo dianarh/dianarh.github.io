@@ -54,6 +54,13 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
 
+::selection {
+  background: #ffafdc; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #ffafdc; /* Gecko Browsers */
+}
+
 body {
   background-color: #FFFFFF;
   padding:50px;
