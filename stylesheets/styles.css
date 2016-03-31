@@ -126,6 +126,7 @@ p, ul, ol, table, pre, dl {
 ul{
    max-width: 660px; /* for  below IE7 use `width: 660px;` */
     margin: 0 auto
+    background-color:#ff0000;
 	
 	
 }
