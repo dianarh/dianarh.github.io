@@ -225,6 +225,8 @@ div.img {
 
 div.img:hover {
     background-color:red;
+        height: auto;
+
 }
 
 div.img img {
@@ -232,11 +234,6 @@ div.img img {
     height: auto;
 }
 
-div.img img:hover {
-    width: 100%;
-    height: auto;
-    background-color:blue;
-}
 
 small {
   font-size:11px;
