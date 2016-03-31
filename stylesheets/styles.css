@@ -55,7 +55,7 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: #0000FF;
   padding:50px;
   font: 14px/1.5 'Caslon', 'Garamond', serif;
   color:#727272;
@@ -108,6 +108,7 @@ a:hover small {
 }
 
 .wrapper {
+  color:#00ff00;
   width:860px;
   margin:0 auto;
 }
@@ -158,6 +159,7 @@ img {
 }
 
 header {
+  color:#ff0000;
   width: 100%;
   position:fixed;
   text-align:center;
