@@ -219,6 +219,7 @@ section {
 div.img {
     margin: 5px;
     width: 180px;
+    float: left;
 }	
 
 div.img:hover {
