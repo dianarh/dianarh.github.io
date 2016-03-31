@@ -126,6 +126,7 @@ p, ul, ol, table, pre, dl {
 ul{
 text-align:center;
 margin:auto;
+display: inline-block;
 	
 	
 }
