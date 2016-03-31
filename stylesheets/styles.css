@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h3{
   font-size:30px;
+  text-align:center;
 }
 p{
   font-size:30px;
@@ -221,6 +222,7 @@ footer {
 
   header ul, header p.view {
     position:static;
+    font-size:16px;
   }
 
   pre, code {
